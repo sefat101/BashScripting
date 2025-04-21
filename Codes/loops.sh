@@ -9,7 +9,7 @@
 # - until loop
 # - break and continue statements
 #
-# 📌 How to Run:
+#  How to Run:
 # 1. Save this file as 'loop_demo.sh'
 # 2. Make it executable: chmod +x loop_demo.sh
 # 3. Run it: ./loop_demo.sh
